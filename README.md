@@ -1,2 +1,2 @@
 # Password Guesser 
-Tricky Password Guesser made with React.js
+Implementing React.js in a tricky game, a password guesser
